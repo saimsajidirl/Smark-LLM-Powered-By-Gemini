@@ -1,5 +1,7 @@
 # Smark-LLM-Powered-By-Gemini
-https://pbs.twimg.com/media/GVl31p9WEAAuGHe?format=png&name=large
+
+[Pic
+](https://pbs.twimg.com/media/GVl31p9WEAAuGHe?format=png&name=large)
 
 This project involves the development of an advanced Large Language Model (LLM) powered by the Gemini framework. The LLM is enhanced using cutting-edge Machine Learning (ML) techniques and integrated into a seamless web application utilizing Django, HTML, and CSS. This application exemplifies state-of-the-art AI capabilities and demonstrates the harmonious integration of sophisticated backend AI processes with a user-friendly frontend.
 
